@@ -24,12 +24,13 @@ header {
 }
 
 header > h1 {
-    border: 1px dotted black;
+   /* border: 1px dotted black;-pontilhado-*/
     flex: 0 0 200px;
+    
 }
 
 header > nav {
-    border: 1px dotted black;
+    /* border: 1px dotted black;-pontilhado- */
     display: flex;
     flex-flow: row nowrap;
     justify-content: flex-end;
@@ -61,5 +62,6 @@ main {
     padding: 10px;
     border-radius: 10px;
     box-shadow: 2px 2px 3px black;
+    
 }
 
